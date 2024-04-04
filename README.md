@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flatcalm
-- 👀 I’m interested in (https://github.com/1roo)
-- 🌱 I’m currently learning Spring
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning C++, JS
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me a_abnc@naver.com
 
